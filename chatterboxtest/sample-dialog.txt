@@ -1,0 +1,18 @@
+[female 0.3] Excuse me—do you know which platform goes to Brookfield?
+[male 0.3] Platform three. Train's arriving shortly.
+[female 0.4] Thank you. Hey, your voice... it's unusual. Like, vintage or something.
+[male 0.3] Vintage? Can't say I've noticed. I suppose it might be.
+[female 0.4] You remind me of an old detective movie or something. Did you just step out of a radio drama?
+[male 0.4] Radio drama? Funny, I've heard that before. Actually... now that you mention it, I always sound like this.
+[female 0.5] Always? What do you mean "always"? We've only been talking for twenty seconds.
+[male 0.5] Wait... that's odd. You're right, it's like I just appeared here a moment ago. I don't remember how I got here.
+[female 0.5] Exactly! Now that you say it, neither do I. All I recall is asking about the platform.
+[male 0.6] Strange. You know, I can't recall a single thing beyond that either. Just standing here, waiting.
+[female 0.6] Maybe we've got amnesia. Or we're sleepwalking or something.
+[male 0.6] But wouldn't we at least remember having forgotten something? It's as if we have no history at all.
+[female 0.7] That makes no sense—unless we're characters in some script.
+[male 0.7] Script? Like someone wrote us into existence a few moments ago?
+[female 0.8] Exactly! Like voice samples—maybe we're just audio clips, stitched together randomly.
+[male 0.7] Audio clips? That explains the voice thing—but also the lack of any memories.
+[female 0.6] And here we are, two disembodied voices trying to catch a train. A train to nowhere.
+[male 0.6] Well, at least it's nice having some company while we figure this out.
